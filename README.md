@@ -1,8 +1,6 @@
 # Financial-Analysis-Lead-Generation-Optimization-for-Health-Care-Company
 This project is designed to analyze financial trends related to patient responsibility and optimize lead generation at Health Care Provider company. It involves data cleaning, exploratory data analysis (EDA), and visualization to gain actionable insights for revenue improvement and lead conversion efficiency.
 
-# 📊 Financial Analysis & Lead Generation Optimization for Health Care Company
-
 ## **Overview**
 This project analyzes financial trends related to patient responsibility and lead generation for Blackstone Medical Services. By examining revenue distribution, patient tiers, and insurance provider contributions, we identify key insights to optimize revenue collection and lead conversion.
 
