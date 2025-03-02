@@ -16,7 +16,7 @@ This project analyzes financial trends related to patient responsibility and lea
 
 ---
 
-## **📌 Key Insights**
+## **Key Insights**
 - **Revenue by Tier:** Tier 3 patients contribute the highest revenue (~$3.8M).
 - **Lead Volume Stability:** January & February had nearly **identical lead counts** (~17.6K).
 - ![image](https://github.com/user-attachments/assets/725bf4e6-4d6e-49fc-b4c3-6a1cc9bb773b)
@@ -55,7 +55,7 @@ This project analyzes financial trends related to patient responsibility and lea
 - **Monthly revenue & lead comparison.**
 - **Insurance company revenue impact.**
 ---
-## **🚀 How to Run the Project**
+## **installation--setup**
 1️⃣ Clone the repository:
 ```bash
 git clone https://github.com/John-Z-byte/Financial-Analysis-Lead-Generation-Optimization-for-Health-Care-Company.git
