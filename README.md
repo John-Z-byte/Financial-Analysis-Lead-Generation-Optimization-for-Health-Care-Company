@@ -11,9 +11,17 @@ This project analyzes financial trends related to patient responsibility and lea
 ## **📌 Key Insights**
 - **Revenue by Tier:** Tier 3 patients contribute the highest revenue (~$3.8M).
 - **Lead Volume Stability:** January & February had nearly **identical lead counts** (~17.6K).
+- ![image](https://github.com/user-attachments/assets/725bf4e6-4d6e-49fc-b4c3-6a1cc9bb773b)
+
 - **Revenue Decline:** February saw **$87K less revenue** than January despite similar lead volume.
 - **Lead Volatility:** Some days had extreme **spikes and drops (1,835 vs. 0 leads)**.
+- ![image](https://github.com/user-attachments/assets/82f36399-7924-4c46-8a22-7c33cc92c9f9)
+
+- ![image](https://github.com/user-attachments/assets/b772fc6b-de87-4a47-8ed0-3ee5d2840fee)
+
 - **Insurance Contributions:** **Self-Pay & BCBS drive the most revenue**; Medicare and Humana are lower.
+- ![image](https://github.com/user-attachments/assets/3dcc404c-0a41-4689-8d2b-0c81f6345f98)
+
 
 ---
 
