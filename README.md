@@ -1,12 +1,11 @@
-## 📖 Table of Contents
+##  Table of Contents
 1. [Overview](#overview)
 2. [Key Insights](#key-insights)
 3. [Installation & Setup](#installation--setup)
 4. [How to Use](#how-to-use)
 5. [Business Impact](#business-impact)
 6. [Visualizations](#visualizations)
-7. [License](#license)
-8. [About Me](#about-me)
+7. [About Me](#about-me)
 
 # Financial-Analysis-Lead-Generation-Optimization-for-Health-Care-Company
 This project is designed to analyze financial trends related to patient responsibility and optimize lead generation at Health Care Provider company. It involves data cleaning, exploratory data analysis (EDA), and visualization to gain actionable insights for revenue improvement and lead conversion efficiency.
@@ -59,3 +58,17 @@ This project analyzes financial trends related to patient responsibility and lea
 1️⃣ Clone the repository:
 ```bash
 git clone https://github.com/John-Z-byte/Financial-Analysis-Lead-Generation-Optimization-for-Health-Care-Company.git
+
+## ** About Me ** 
+
+Hi! I'm **John Z.**, a Data Analyst passionate about **financial analytics, sales optimization, and healthcare data**. I specialize in **Python, SQL, and data visualization** to drive business insights.  
+
+📌 **Tech Stack:** Python (Pandas, Matplotlib, Seaborn), SQL, Excel  
+📬 **Connect with Me:**  
+- **GitHub:** [@John-Z-byte](https://github.com/John-Z-byte)  
+- **LinkedIn:** https://www.linkedin.com/in/john-z-99698a115/
+- **Email:** estebandrums1@gmail.com  
+
+🚀 Open to collaborations & data projects!  
+
+
