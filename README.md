@@ -45,14 +45,14 @@ This project analyzes **financial trends related to patient responsibility and l
 ✔️ Saves a cleaned dataset  
 
 ###  **2. Data Analysis**
-📌 `analyze_data.py` - Performs **Exploratory Data Analysis (EDA)**:  
+ `analyze_data.py` - Performs **Exploratory Data Analysis (EDA)**:  
 ✔️ Generates **descriptive statistics**  
 ✔️ Identifies **top insurance contributors**  
 ✔️ Detects **outliers in patient responsibility**  
 ✔️ Examines **tier-based revenue segmentation**  
 
 ###  **3. Data Visualization**
-📌 `visualization.py` - Produces **key insights through visualizations**:  
+ `visualization.py` - Produces **key insights through visualizations**:  
 ✔️ **Revenue breakdown by tier**  
 ✔️ **Leads trend analysis over time**  
 ✔️ **Monthly revenue & lead comparison**  
@@ -60,23 +60,22 @@ This project analyzes **financial trends related to patient responsibility and l
 
 ---
 
-## ⚙ Installation & Setup
+##  Installation & Setup
 To run this project, install the required libraries.
 
-### 🔹 1️⃣ **Clone the repository**:
+### 🔹 **Clone the repository**:
 ```bash
 git clone https://github.com/John-Z-byte/Financial-Analysis-Lead-Generation-Optimization-for-Health-Care-Company.git
 
-
-
+```
 
 ### **🚀 About Me**
 
 Hi! I'm **John Z.**, a **Data Analyst** passionate about **financial analytics, sales optimization, and healthcare data insights**.  
 
 🔹 **Tech Stack:**  
-📌 Python (Pandas, Matplotlib, Seaborn)  
-📌 SQL, Excel  
+ Python (Pandas, Matplotlib, Seaborn)  
+ SQL, Excel  
 
 📬 **Connect with Me:**  
 - **GitHub:** [@John-Z-byte](https://github.com/John-Z-byte)  
